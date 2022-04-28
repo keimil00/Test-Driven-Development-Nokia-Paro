@@ -1,0 +1,4 @@
+/home/kamil/CLionProjects/paro2022/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/kamil/CLionProjects/paro2022/cmake-build-debug/CMakeFiles/run.dir
+/home/kamil/CLionProjects/paro2022/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/kamil/CLionProjects/paro2022/cmake-build-debug/CMakeFiles/paro-tdd.dir
